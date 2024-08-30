@@ -1,0 +1,4 @@
+nota. 
+aoi seleccione el área de estudio de acuerdo a su interés cargar el área en Google earth engine
+
+output_folder = r"D:\Teledetcccion II\calculoLST" #guarde el resultado en la unidad de su equipo
